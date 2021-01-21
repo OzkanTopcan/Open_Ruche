@@ -21,6 +21,5 @@ Projet réalisé avec :
   - Clément OZANNE
 
 Encadré par :
-
   - Yann DOUZE
   - Sylvain VIATEUR
