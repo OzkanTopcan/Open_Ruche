@@ -79,21 +79,13 @@ int main()
 
 void ClignotterLed(){
     led = 1;
-    wait(0.2);
-    led = 0;
-    wait(0.2);
-    led = 1;
-    wait(0.2);
-    led = 0;
-    wait(0.2);
-    led = 1;
-    wait(0.2);
-    led = 0;
-    wait(0.2);
-    led = 1;
-    wait(0.2);
-    led = 0;
-    wait(0.2);
+    int i = 0;
+    for ( i  = 0 ; i < 3 ; i++){
+     if(led == 1) 
+     {
+        led =! led ;
+        wait(0.2);
+    }     
 }
 
 void MesureGlobale(){
