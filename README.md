@@ -1,7 +1,7 @@
 Ce répertoire représente notre projet d'IOT du cycle ingénieur (4ème année Polytech Sorbonne Ei2i) durant 60 heures. L’objectif de ce projet est de réaliser un boitier connecté munis de capteurs qui envoi les données vers une plateforme Cloud.
 
 Equipement réquis :
-    - STMicroelectronics Nucleo L432KC
+    - STMicroelectronics Nucleo L432KC \n
     - Sigfox BRKWS01-RC1
     - DHT22 Temperature Sensor	
     - Adafruit Waterproof DS18B20 Digital temperature sensor	
